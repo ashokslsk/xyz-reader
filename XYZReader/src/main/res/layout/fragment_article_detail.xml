@@ -2,10 +2,8 @@
     android:id="@+id/scrollview"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-
-
-
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:customfont="http://schemas.android.com/apk/res-auto">
 
     <com.example.xyzreader.ui.MaxWidthLinearLayout
         android:orientation="vertical"
@@ -28,7 +26,7 @@
             android:paddingBottom="@dimen/detail_metabar_vert_padding"
             android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
 
-            <TextView
+            <com.example.xyzreader.ui.CustomFontTextView
                 android:id="@+id/article_title"
                 style="?android:attr/textAppearanceLarge"
                 android:layout_width="match_parent"
@@ -38,17 +36,19 @@
                 android:textColor="#fff"
                 android:textStyle="bold"
                 android:textSize="@dimen/detail_title_text_size"
-                android:lineSpacingMultiplier="0.9" />
+                android:lineSpacingMultiplier="0.9"
+                customfont:fontName="@string/font_roboto_bold"/>
 
-            <TextView
+            <com.example.xyzreader.ui.CustomFontTextView
                 android:id="@+id/article_byline"
                 style="?android:attr/textAppearanceSmall"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="#8fff" />
+                android:textColor="#8fff"
+                customfont:fontName="@string/font_roboto_regular"/>
         </LinearLayout>
 
-        <TextView
+        <com.example.xyzreader.ui.CustomFontTextView
             android:id="@+id/article_body"
             style="?android:attr/textAppearanceSmall"
             android:layout_width="match_parent"
@@ -57,9 +57,10 @@
             android:layout_marginRight="@dimen/detail_inner_horiz_margin"
             android:paddingBottom="@dimen/detail_body_bottom_margin"
             android:textColor="@android:color/black"
-            android:textColorLink="@color/colorAccent"
+            android:textColorLink="@color/theme_accent"
             android:textSize="@dimen/detail_body_text_size"
-            android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />
+            android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier"
+            customfont:fontName="@string/font_roboto_regular"/>
 
     </com.example.xyzreader.ui.MaxWidthLinearLayout>
 </com.example.xyzreader.ui.ObservableScrollView>

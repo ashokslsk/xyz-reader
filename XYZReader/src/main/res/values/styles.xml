@@ -39,4 +39,14 @@
 
     <style name="Theme.Bacon.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <attr name="fontName" format="string" />
+    <declare-styleable name="CustomFontTV">
+        <attr name="fontName" />
+    </declare-styleable>
+
+    <style name="TransparentText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#00000000</item>
+    </style>
+
+
 </resources>
