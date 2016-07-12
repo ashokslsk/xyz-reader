@@ -431,14 +431,7 @@
                     "endOffset": 2522
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 897,
-                        "endColumn": 45,
-                        "endOffset": 938
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -450,14 +443,7 @@
                     "endOffset": 2572
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 943,
-                        "endColumn": 49,
-                        "endOffset": 988
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -469,14 +455,7 @@
                     "endOffset": 2619
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 799,
-                        "endColumn": 46,
-                        "endOffset": 841
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -488,14 +467,7 @@
                     "endOffset": 2670
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 846,
-                        "endColumn": 50,
-                        "endOffset": 892
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -735,14 +707,7 @@
                     "endOffset": 4120
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1041,
-                        "endColumn": 56,
-                        "endOffset": 1093
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -754,14 +719,7 @@
                     "endOffset": 4167
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 993,
-                        "endColumn": 46,
-                        "endOffset": 1035
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1145,14 +1103,7 @@
                     "endOffset": 6217
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 755,
-                        "endColumn": 43,
-                        "endOffset": 794
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -2352,7 +2303,14 @@
                     "endOffset": 36092
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/dimens.xml"
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 52,
+                        "endOffset": 138
+                    }
                 }
             },
             {
@@ -6114,15 +6072,7 @@
                     "endOffset": 120932
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 706,
-                        "endLine": 26,
-                        "endColumn": 12,
-                        "endOffset": 1049
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {
@@ -6134,14 +6084,7 @@
                     "endOffset": 121025
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1339,
-                        "endColumn": 93,
-                        "endOffset": 1428
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {
@@ -6167,15 +6110,7 @@
                     "endOffset": 121307
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1185,
-                        "endLine": 35,
-                        "endColumn": 12,
-                        "endOffset": 1333
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {
@@ -6187,14 +6122,7 @@
                     "endOffset": 121390
                 },
                 "from": {
-                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 1434,
-                        "endColumn": 83,
-                        "endOffset": 1513
-                    }
+                    "file": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {

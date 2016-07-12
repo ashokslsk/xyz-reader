@@ -4,33 +4,33 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="18127729100540"
-    verifier="R_CLASS_CHANGE" >
+    timestamp="18632026856960"
+    verifier="FIELD_REMOVED" >
 
     <task
         name="javac"
-        duration="1158" />
+        duration="622" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="215" />
+        duration="143" />
     <task
         name="verifier"
-        duration="51" />
+        duration="8" />
 
     <artifact
         location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
     <artifact
-        location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
         type="DEX" />
     <artifact
         location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
         type="DEX" />
     <artifact
-        location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
         type="DEX" />
     <artifact
         location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
@@ -42,19 +42,19 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="18127729100540"
-        verifier="R_CLASS_CHANGE" >
+        timestamp="18632026856960"
+        verifier="FIELD_REMOVED" >
         <artifact
             location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
         <artifact
-            location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />
         <artifact
             location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
             type="DEX" />
         <artifact
-            location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
             type="DEX" />
         <artifact
             location="/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
