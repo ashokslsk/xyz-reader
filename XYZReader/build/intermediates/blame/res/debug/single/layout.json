@@ -4,12 +4,12 @@
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -60,12 +60,12 @@
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
@@ -88,12 +88,12 @@
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
-        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
