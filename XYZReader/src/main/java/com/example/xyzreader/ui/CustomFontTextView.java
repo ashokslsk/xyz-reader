@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 import com.example.xyzreader.R;
 
+
 /**
  * Created by ashok.kumar on 12/07/16.
  */

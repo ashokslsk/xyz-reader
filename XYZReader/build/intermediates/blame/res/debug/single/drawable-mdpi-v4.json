@@ -136,12 +136,12 @@
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",

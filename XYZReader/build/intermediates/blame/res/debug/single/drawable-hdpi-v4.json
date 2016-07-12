@@ -20,12 +20,12 @@
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/Ashok/Documents/NanoDegree/xyz/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
